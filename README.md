@@ -73,7 +73,7 @@ time-series-forecasting-case-study/
 ---
 
 ```yaml
-## Contributors  
+Contributors  
 - Sajad Ahmad Mir (M21MA207)  
 - Himalaya (M21MA204)  
 - Nasrat Jahan (M21MA205)  
